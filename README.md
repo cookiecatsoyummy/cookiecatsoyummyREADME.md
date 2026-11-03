@@ -2,5 +2,5 @@
 </p>
 
 <p align="center">
-<img width="736" height="478" alt="image" src="maki danganronpa __ widget.png" />
-</p>
+<img width="736" height="478" alt="image" src="maki danganronpa __ widget.png" /> 
+</p> 
